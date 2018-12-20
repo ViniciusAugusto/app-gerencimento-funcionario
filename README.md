@@ -6,3 +6,4 @@ API desenvolvido em PHP 7.3 utilizando framework Laravel 5.4
 App desenvolvido em JS utilizando Quasar/VueJS
 [Guia de instalação frontend](frontend/README.md)
 
+Utilizar [script](database.sqlite.sql) para criar o banco local em backend/database/database.sqlite
